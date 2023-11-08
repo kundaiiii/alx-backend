@@ -69,4 +69,3 @@ def index_range(page, page_size) -> Tuple:
     tuple1 += (start_index, )
 
     return tuple1 + tuple2
-
